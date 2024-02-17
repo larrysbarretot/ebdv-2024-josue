@@ -11,8 +11,8 @@ body {
 
 .verse-card {
   position: relative;
-  width: 400px;
-  height: 300px;
+  width: 380px;
+  height: 280px;
   background-color: #769474;
   overflow: hidden;
   border:10px solid white;
@@ -162,11 +162,11 @@ body {
 .text {
   position: absolute;
   color: #800f2f;
-  font-size:30px;
+  font-size:28px;
   font-family: 'Pacifico', cursive;
   line-height:1;
   text-align: center;
-  width:380px;
+  width:360px;
   left:10px;
   z-index:3;
   top:260px;
